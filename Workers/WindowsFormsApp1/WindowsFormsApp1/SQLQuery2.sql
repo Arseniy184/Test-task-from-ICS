@@ -1,0 +1,1 @@
+﻿INSERT INTO Workers (Name, Surname, Position, Year_of_birth, Salary) VALUES (N'Вася',N'Пупкин',N'Уборщ','12.20.1999','400-500$')
